@@ -38,7 +38,7 @@ group :development, :test do
   gem 'annotate'
   gem 'pry-byebug'
   gem 'faker'
-  gem 'rails-controller-testing
+  gem 'rails-controller-testing'
 end
 
 group :development do
